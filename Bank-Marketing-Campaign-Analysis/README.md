@@ -39,7 +39,7 @@ Correlation heatmap![alt text](https://github.com/vamshigunji183/Data-Science-po
 
 |Model| AUC Score| ROC Curve|
 |------------|------------|----------|
-|Logistic Regression|0.7900|Logistic Regression![alt text](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Bank-Marketing-Campaign-Analysis/img/https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Bank-Marketing-Campaign-Analysis/img/ROC-LR.JPG "Correlation heatmap")|
+|Logistic Regression|0.7900|Logistic Regression![alt text](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Bank-Marketing-Campaign-Analysis/img/ROC-LR.JPG "Correlation heatmap")|
 |Decision Tree |0.7919|Decision Tree![alt text](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Bank-Marketing-Campaign-Analysis/img/ROC-DT.JPG "Decision Tree")|
 |Random Forest|0.7979|Random Forest![alt text](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Bank-Marketing-Campaign-Analysis/img/ROC-RF.JPG "Random Forest")|
 |Gradient Boosting|0.80065|Gradient Boosting![alt text](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Bank-Marketing-Campaign-Analysis/img/ROC-GB.JPG "Random Forest")|
