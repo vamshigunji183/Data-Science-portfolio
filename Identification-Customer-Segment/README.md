@@ -28,18 +28,17 @@ Step-2: Pre-processing
    * Select and Re-Encode Features
         * Re-Encode Categorical Features
         *  Engineer Mixed-Type Features
+        
 Step-3: Feature Transformation
-    * Apply feature scaling
-    * Perform Dimensionality Reduction - PCA
-    * Interpret Principal Components
+   * Apply feature scaling
+   * Perform Dimensionality Reduction - PCA
+   * Interpret Principal Components
 Step-4: Clustering
-    * Apply Clustering to General Population
-    * Apply All Steps to the Customer Data
-    * Compare Customer Data to Demographics Data
+   * Apply Clustering to General Population
+   * Apply All Steps to the Customer Data
+   * Compare Customer Data to Demographics Data
 
-    
-
-    
+     
 
 
 
