@@ -23,23 +23,23 @@ Step-1: Load data
 
 Step-2: Pre-processing
    * Assessing missing values
-       * Convert Missing Value Codes to NaN
-       * Assess Missing Data in Each Column
+       - Convert Missing Value Codes to NaN
+       - Assess Missing Data in Each Column
    * Select and Re-Encode Features
         * Re-Encode Categorical Features
         *  Engineer Mixed-Type Features
+        
 Step-3: Feature Transformation
-    * Apply feature scaling
-    * Perform Dimensionality Reduction - PCA
-    * Interpret Principal Components
+   * Apply feature scaling
+   * Perform Dimensionality Reduction - PCA
+   * Interpret Principal Components
+
 Step-4: Clustering
-    * Apply Clustering to General Population
-    * Apply All Steps to the Customer Data
-    * Compare Customer Data to Demographics Data
+   * Apply Clustering to General Population
+   * Apply All Steps to the Customer Data
+   * Compare Customer Data to Demographics Data
 
-    
-
-    
+     
 
 
 
@@ -55,19 +55,31 @@ The actual data was removed due to terms and conditions of AZ Direct GmbH which 
 
 Within the project both general population (Germany) and customers population were compared. Segments were identified that could be target for future marketing campaigns or to be considered outside of company interests. Typical portrait of a customer for different segments was described.  
 
-Now let's check median values of below features which will characterize cluster 4.
-What can we say about people that typically outside of target group: 
-MOBI_REGIO (movement in the region) low movement in the region. 
-KBA05_ANTG1 (Number of 1-2 family houses in the microcell) - average share of 1-2 family houses in the microcell.
-FINANZ_MINIMALIST (MINIMALIST: low financial interest) - is high. 
-HH_EINKOMMEN_SCORE (Estimated household net income) - average income. 
-PLZ8_ANTG3 (Number of 6-10 family houses in the PLZ8 region) - lower share of 6-10 family houses in the PLZ8 region.
-CAMEO_INTL_2015_WL (Wealth of household) - Prosperous households.
-FINANZ_SPARER (financial typology - money saver) - low.
-FINANZ_VORSORGER (financial typology - be prepared) - high, so mostly financial typology is "be prepared" which is above money saver but less than investor. 
-SEMIO_REL (religious) - very low affinity.
-ALTERSKATEGORIE_GROB (Estimated age) - 30 - 45 years old
-ANREDE_KZ (Gender) - Female
-SEMIO_KAEM (personal typology -combative attitude) - average SEMIO_DOM (personal typology -dominant-minded) - average SEMIO_VERT (personal typology - dreamful)- average SEMIO_SOZ (personal typology - socially-minded) - average SEMIO_FAM (personal typology- family-minded)- low. 
+`Now let's check median values of below features which will characterize cluster 4.`
+
+`What can we say about people that typically outside of target group:MOBI_REGIO (movement in the region) low movement in the region. `
+
+`KBA05_ANTG1 (Number of 1-2 family houses in the microcell) - average share of 1-2 family houses in the microcell.`
+
+`FINANZ_MINIMALIST (MINIMALIST: low financial interest) - is high. `
+
+`HH_EINKOMMEN_SCORE (Estimated household net income) - average income.` 
+
+`PLZ8_ANTG3 (Number of 6-10 family houses in the PLZ8 region) - lower share of 6-10 family houses in the PLZ8 region.`
+
+`CAMEO_INTL_2015_WL (Wealth of household) - Prosperous households.`
+
+`FINANZ_SPARER (financial typology - money saver) - low.`
+
+`FINANZ_VORSORGER (financial typology - be prepared) - high, so mostly financial typology is "be prepared" which is above money saver but less than investor. `
+
+ `SEMIO_REL (religious) - very low affinity.`
+
+`ALTERSKATEGORIE_GROB (Estimated age) - 30 - 45 years old`
+
+`ANREDE_KZ (Gender) - Female`
+
+`SEMIO_KAEM (personal typology -combative attitude) - average SEMIO_DOM (personal typology -dominant-minded) - average SEMIO_VERT (personal typology - dreamful)- average SEMIO_SOZ (personal typology - socially-minded) - average SEMIO_FAM (personal typology- family-minded)- low. `
+
 ### Summary
 Typical person outside of target group is a woman, mid age (30-45) with average income, low affinity to religious, she is not money saver, living in prosperous household, in the microcell with average 1-2 families, in the region of low movement. Personal typology. She can be in average combatative/dominant, dremful, socially-minded with lower probability for family-minded. We can say this is a person modern, active, which can stands for his rights and needs.
