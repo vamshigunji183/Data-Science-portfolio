@@ -23,8 +23,8 @@ Step-1: Load data
 
 Step-2: Pre-processing
    * Assessing missing values
-       * Convert Missing Value Codes to NaN
-       * Assess Missing Data in Each Column
+       - Convert Missing Value Codes to NaN
+       - Assess Missing Data in Each Column
    * Select and Re-Encode Features
         * Re-Encode Categorical Features
         *  Engineer Mixed-Type Features
