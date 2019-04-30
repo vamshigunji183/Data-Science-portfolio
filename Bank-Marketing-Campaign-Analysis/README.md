@@ -16,7 +16,7 @@ Make sure all the dependencies used in the notebook are installed in the local m
 ### Overview
 * Load data
 * Exploratory Data Analysis
-  * [Categorical variables]:https://render.githubusercontent.com/view/ipynb?commit=279362ce0052f4821c90745fa75021258d3fcfc4&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f76616d73686967756e6a693138332f446174612d536369656e63652d706f7274666f6c696f2f323739333632636530303532663438323163393037343566613735303231323538643366636663342f42616e6b2d4d61726b6574696e672d43616d706169676e2d416e616c797369732f42616e6b5f4d61726b6574696e675f50726f6a6563742e6970796e62&nwo=vamshigunji183%2FData-Science-portfolio&path=Bank-Marketing-Campaign-Analysis%2FBank_Marketing_Project.ipynb&repository_id=184240058&repository_type=Repository
+  * Categorical variables
       Numbers of customers...
       * JOBS![alt text](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Bank-Marketing-Campaign-Analysis/img/job.JPG "Jobs")
       * Martial![alt text](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Bank-Marketing-Campaign-Analysis/img/marital.JPG "Martial")
