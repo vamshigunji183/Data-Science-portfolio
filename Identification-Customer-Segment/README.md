@@ -33,6 +33,7 @@ Step-3: Feature Transformation
    * Apply feature scaling
    * Perform Dimensionality Reduction - PCA
    * Interpret Principal Components
+
 Step-4: Clustering
    * Apply Clustering to General Population
    * Apply All Steps to the Customer Data
