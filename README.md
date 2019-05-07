@@ -16,9 +16,15 @@ Core Competencies includes research, design, development, user data analysis, ET
 * Deep Learning Frameworks: Tensorflow, Keras, Pytourch, Caffe, Thenos
 * Cloud Technologies: Google Cloud Platform (Full Stack), Amazon Web Services
 
+
+|### Computer Vision ||
+|------------ | -------------|
+|#### Cats and Dog Classifier <img src="./img/sample.gif" alt="vamshi" width="20%"> | #### Face Features Detection <img src="./img/sample.gif" alt="vamshi" width="20%">|
+|#### Vehicle Tracking  <img src="./img/sample.gif" alt="vamshi" width="20%"> | #### Advanced Lane Detection <img src="./img/sample.gif" alt="vamshi" width="20%">|
+
+
 ### Projects Gallary
-Computer Vision | Cats and Dog Classifier: <img src="./img/sample.gif" alt="vamshi" width="100%"> | Face Features Detection <img src="./img/sample.gif" alt="vamshi" width="100%"> | Advanced Lane Detection <img src="./img/sample.gif" alt="vamshi" width="100%"> | Cats and Dog Classifier <img src="./img/sample.gif" alt="vamshi" width="100%"> | Vehicle Tracking  <img src="./img/sample.gif" alt="vamshi" width="100%"> |
--------|
+
 
 Natural Language Processing | Neural Machine Translation <img src="./img/sample.gif" alt="vamshi" width="100%"> | New Summarization <img src="./img/sample.gif" alt="vamshi" width="100%"> | Twitter Sentiment Analysis <img src="./img/sample.gif" alt="vamshi" width="100%"> | Recipe Summarization <img src="./img/sample.gif" alt="vamshi" width="100%">
 -------|
