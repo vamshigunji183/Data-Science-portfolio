@@ -1,8 +1,6 @@
 ### NLP Projects
 
-| Natural Language Processing |Neural Machine Translation| New Summarization| Twitter Sentiment Analysis | Recipe Summarization|
-|------------ | -------------| -------------| -------------|-------------|
-|Preview|  <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|
+
 
 
 

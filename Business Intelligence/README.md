@@ -1,8 +1,6 @@
 Business Intelligence Projects
 
-| Business Intelligence |Spotify Churn Prediction| Customer Segmentation| Campaign Analysis |
-|------------ | -------------| -------------| -------------|
-|Preview|  <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   <img src="./img/sample.gif" alt="vamshi" width="50%"> |
+
 
 #### Business Intelligence
 * [Spotify Users Churn Prediction](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Spotify-User-Churn-Prediction)
