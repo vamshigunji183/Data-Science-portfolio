@@ -1,5 +1,5 @@
 ## Data Science Portfolio
-
+<img src="./img/vamshi.jpg" alt="vamshi" align= 'left' width="10%">
 ### Career Profile
 Junior data scientist with 3+ years’ experience, as a data analytics for Educational Service startup company and as a software developer, and research assistant for the research funded by the National Science Foundation, USA.
 Core Competencies includes research, design, development, user data analysis, ETL pipeline, Data mining, database design, database management, Statistical analysis, Predictive modeling, Data visualization, and Report writing.
