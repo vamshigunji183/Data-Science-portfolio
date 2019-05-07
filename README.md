@@ -26,7 +26,7 @@ Core Competencies includes research, design, development, user data analysis, ET
 ### Projects Gallary
 | Computer Vision |Cats and Dog Classifier| Face Features Detection| Vehicle Tracking | Advanced Lane Detection|
 |------------ | -------------| -------------| -------------|-------------|
-|Preview|  <img src="./img/cat-dogs.gif" alt="cats and dogs Classifier" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   ![vehicle detection](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/img/out.mp4 "vehicle detection") |   <img src="./img/adv-lane-detection.gif" alt="adv-lane-detection" width="50%">|
+|Preview|  <img src="./img/cat-dogs.gif" alt="cats and dogs Classifier" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   vehicle detection<img src="./img/vehicle-tracker.gif" alt="adv-lane-detection" width="50%"> |   <img src="./img/adv-lane-detection.gif" alt="adv-lane-detection" width="50%">|
 
 | Natural Language Processing |Neural Machine Translation| New Summarization| Twitter Sentiment Analysis | Recipe Summarization|
 |------------ | -------------| -------------| -------------|-------------|
