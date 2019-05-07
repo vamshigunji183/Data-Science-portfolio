@@ -23,15 +23,15 @@ Core Competencies includes research, design, development, user data analysis, ET
 ### Projects Gallary
 | Computer Vision |Cats and Dog Classifier| Face Features Detection| Vehicle Tracking | Advanced Lane Detection|
 |------------ | -------------| -------------| -------------|-------------|
-|Preview|  <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|   <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|
+|Preview|  <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|
 
 | Natural Language Processing |Neural Machine Translation| New Summarization| Twitter Sentiment Analysis | Recipe Summarization|
 |------------ | -------------| -------------| -------------|-------------|
-|Preview|  <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|   <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|
+|Preview|  <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|
 
 | Business Intelligence |Spotify Churn Prediction| Customer Segmentation| Campaign Analysis |
 |------------ | -------------| -------------| -------------|
-|Preview|  <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|   <img src="./img/sample.gif" alt="vamshi" width="20%"> |
+|Preview|  <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   <img src="./img/sample.gif" alt="vamshi" width="50%"> |
 
 
 
@@ -51,8 +51,8 @@ Core Competencies includes research, design, development, user data analysis, ET
 * [Twitter Sentiment Analysis](https://github.com/vamshigunji183/Sentiment-Analysis-Twitter)
 * [Neural Machine Translation (EN-DE, EN-FN)](https://github.com/vamshigunji183/Neural-Machine-Translation)
 
-#### Computer Visualization
-* [Cats and Dogs Classifier Web App]()
+#### Computer Vision
+* [Cats and Dogs Classifier Web App](https://github.com/vamshigunji183/DL_webapp)
 * [Self-Driving car Vision Project]()
   * [Lane Detection](https://github.com/vamshigunji183/LaneDetection)
   * [Advanced Lane Detection](https://github.com/vamshigunji183/Advance-lane-detection)
@@ -62,5 +62,5 @@ Core Competencies includes research, design, development, user data analysis, ET
 * [Face Feature Detection]()
 
 #### Certifications
-* [Stanford University- Database]()
-* [University of Michigan- Applied Data Science]()
+* [Stanford University- Database](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Certifications/Vamshi_Stanford_Certificates_DataBase.pdf)
+* [University of Michigan- Applied Data Science](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Certifications/Vamshi_UoM_Certificates_Applied%20Data%20Science.pdf)
