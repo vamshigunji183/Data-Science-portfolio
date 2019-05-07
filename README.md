@@ -8,10 +8,11 @@ Junior data scientist with 3+ years’ experience, as a data analytics for Educa
 
 Core Competencies includes research, design, development, user data analysis, ETL pipeline, Data mining, database design, database management, Statistical analysis, Predictive modeling, Data visualization, and Report writing.
 
-### [Experience](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Resume/MasterResume_Vamshi.pdf) 
-National Science Foundation
+### [Experience](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Resume/MasterResume_Vamshi.pdf)
+##### National Science Foundation
 * Software Developer (Currently-01/2018)
-Talent Sprint
+
+##### Talent Sprint
 * Data Analyst (08/2016-04/2015)
 
 
