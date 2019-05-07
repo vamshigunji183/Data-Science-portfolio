@@ -26,11 +26,11 @@ Core Competencies includes research, design, development, user data analysis, ET
 ### Projects Gallary
 | Computer Vision |Cats and Dog Classifier| Face Features Detection| Vehicle Tracking | Advanced Lane Detection|
 |------------ | -------------| -------------| -------------|-------------|
-|Preview|  <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|
+|Preview|  <img src="./img/cat-dogs.gif" alt="cats and dogs Classifier" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   <img src="./img/out.mp4" alt="vehicle detection" width="50%"> |   <img src="./img/adv-lane-detection.gif" alt="adv-lane-detection" width="50%">|
 
 | Natural Language Processing |Neural Machine Translation| New Summarization| Twitter Sentiment Analysis | Recipe Summarization|
 |------------ | -------------| -------------| -------------|-------------|
-|Preview|  <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|   <img src="./img/sample.gif" alt="vamshi" width="50%"> |   <img src="./img/sample.gif" alt="vamshi" width="50%">|
+|Preview|  <img src="./img/translation.gif" alt="vamshi" width="50%"> |   <img src="./img/news summarizer.gif" alt="news summarizer" width="50%">|   <img src="./img/Sentiment-analysis.gif" alt="vamshi" width="50%"> |   <img src="./img/Recipe-summarizer.gif" alt="vamshi" width="50%">|
 
 | Business Intelligence |Spotify Churn Prediction| Customer Segmentation| Campaign Analysis |
 |------------ | -------------| -------------| -------------|
