@@ -17,20 +17,24 @@ Core Competencies includes research, design, development, user data analysis, ET
 * Cloud Technologies: Google Cloud Platform (Full Stack), Amazon Web Services
 
 
-|### Computer Vision ||
-|------------ | -------------|
-|#### Cats and Dog Classifier <img src="./img/sample.gif" alt="vamshi" width="20%"> | #### Face Features Detection <img src="./img/sample.gif" alt="vamshi" width="20%">|
-|#### Vehicle Tracking  <img src="./img/sample.gif" alt="vamshi" width="20%"> | #### Advanced Lane Detection <img src="./img/sample.gif" alt="vamshi" width="20%">|
+
 
 
 ### Projects Gallary
+| Computer Vision |Cats and Dog Classifier| Face Features Detection| Vehicle Tracking | Advanced Lane Detection|
+|------------ | -------------| -------------| -------------|-------------|
+|Preview|  <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|   <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|
+
+| Natural Language Processing |Neural Machine Translation| New Summarization| Twitter Sentiment Analysis | Recipe Summarization|
+|------------ | -------------| -------------| -------------|-------------|
+|Preview|  <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|   <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|
+
+| Business Intelligence |Spotify Churn Prediction| Customer Segmentation| Campaign Analysis |
+|------------ | -------------| -------------| -------------|
+|Preview|  <img src="./img/sample.gif" alt="vamshi" width="20%"> |   <img src="./img/sample.gif" alt="vamshi" width="20%">|   <img src="./img/sample.gif" alt="vamshi" width="20%"> |
 
 
-Natural Language Processing | Neural Machine Translation <img src="./img/sample.gif" alt="vamshi" width="100%"> | New Summarization <img src="./img/sample.gif" alt="vamshi" width="100%"> | Twitter Sentiment Analysis <img src="./img/sample.gif" alt="vamshi" width="100%"> | Recipe Summarization <img src="./img/sample.gif" alt="vamshi" width="100%">
--------|
 
-Business Intelligence | Spotify Churn Prediction <img src="./img/sample.gif" alt="vamshi" width="100%"> | Customer Segementation <img src="./img/sample.gif" alt="vamshi" width="100%"> | Campaign Analysis <img src="./img/sample.gif" alt="vamshi" width="100%">
--------|
 
 ### Project Portfolio
 
