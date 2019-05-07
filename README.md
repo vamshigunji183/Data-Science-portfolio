@@ -29,25 +29,25 @@ Business Intelligence | Spotify Churn Prediction <img src="./img/sample.gif" alt
 ### Project Portfolio
 
 #### Business Intelligence
-* [Spotify Users Churn Prediction](./Business Intelligence/Spotify-User-Churn-Prediction)
-* [Customer Segementation]()
-* [Bank ad Marketing Campaign Analysis]()
+* [Spotify Users Churn Prediction](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Spotify-User-Churn-Prediction)
+* [Customer Segementation](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Identification-Customer-Segment)
+* [Bank ad Marketing Campaign Analysis](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Bank-Marketing-Campaign-Analysis)
 * [Santandar Customer Transaction Prediction (Kaggle Competition)]()
 
 #### Natural Language processing
-* [NEWS recommendations App]()
-* [NEWS Summarization App]()
-* [Recipe Summarization App]()
-* [Twitter Sentiment Analysis]()
-* [Neural Machine Translation (EN-DE, EN-FN)]()
+* [NEWS recommendations App](https://github.com/vamshigunji183/NLP-Portfolio/tree/master/NEWS%20Recommendation)
+* [NEWS Summarization App](https://github.com/vamshigunji183/NLP-Portfolio/tree/master/NEWS-Summarization-App)
+* [Recipe Summarization App](https://github.com/vamshigunji183/Recipe-Summarizer)
+* [Twitter Sentiment Analysis](https://github.com/vamshigunji183/Sentiment-Analysis-Twitter)
+* [Neural Machine Translation (EN-DE, EN-FN)](https://github.com/vamshigunji183/Neural-Machine-Translation)
 
 #### Computer Visualization
 * [Cats and Dogs Classifier Web App]()
 * [Self-Driving car Vision Project]()
-  * [Lane Detection]()
-  * [Advanced Lane Detection]()
-  * [Vehicle Tracking ]()
-  * [Traffic signal Detection]()
+  * [Lane Detection](https://github.com/vamshigunji183/LaneDetection)
+  * [Advanced Lane Detection](https://github.com/vamshigunji183/Advance-lane-detection)
+  * [Vehicle Tracking ](https://github.com/vamshigunji183/Vehicle_detection)
+  * [Traffic signal Detection](https://github.com/vamshigunji183/Tracffic-SIgnal-Classification-ConvNet)
 * [MNIST]()
 * [Face Feature Detection]()
 
