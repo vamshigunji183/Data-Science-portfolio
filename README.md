@@ -1,10 +1,14 @@
 ## Data Science Portfolio
 <img src="./img/vamshi.jpg" alt="vamshi" align= 'left' width="10%">
+### [LinkedIn](https://www.linkedin.com/in/venkata-gunji/)
+### [Facebook]()
+
+
 ### Career Profile
 Junior data scientist with 3+ years’ experience, as a data analytics for Educational Service startup company and as a software developer, and research assistant for the research funded by the National Science Foundation, USA.
 Core Competencies includes research, design, development, user data analysis, ETL pipeline, Data mining, database design, database management, Statistical analysis, Predictive modeling, Data visualization, and Report writing.
 <img src="./img/vamshi.jpg" alt="vamshi" width="20%">
-### [Venkata Vamshi Krishna](https://www.linkedin.com/in/venkata-gunji/)
+
 
 
 #### Technical Skills
