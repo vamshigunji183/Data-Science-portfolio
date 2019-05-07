@@ -41,29 +41,28 @@ Core Competencies includes research, design, development, user data analysis, ET
 
 ### Project Portfolio
 
-#### Business Intelligence
+#### [Business Intelligence](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence)
 * [Spotify Users Churn Prediction](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Spotify-User-Churn-Prediction)
 * [Customer Segementation](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Identification-Customer-Segment)
 * [Bank ad Marketing Campaign Analysis](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Bank-Marketing-Campaign-Analysis)
 * [Santandar Customer Transaction Prediction (Kaggle Competition)]()
 
-#### Natural Language processing
+#### [Natural Language processing](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Natural%20Language%20Processing)
 * [NEWS recommendations App](https://github.com/vamshigunji183/NLP-Portfolio/tree/master/NEWS%20Recommendation)
 * [NEWS Summarization App](https://github.com/vamshigunji183/NLP-Portfolio/tree/master/NEWS-Summarization-App)
 * [Recipe Summarization App](https://github.com/vamshigunji183/Recipe-Summarizer)
 * [Twitter Sentiment Analysis](https://github.com/vamshigunji183/Sentiment-Analysis-Twitter)
 * [Neural Machine Translation (EN-DE, EN-FN)](https://github.com/vamshigunji183/Neural-Machine-Translation)
 
-#### Computer Vision
+#### [Computer Vision](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Computer%20Vision)
 * [Cats and Dogs Classifier Web App](https://github.com/vamshigunji183/DL_webapp)
 * [Self-Driving car Vision Project]()
   * [Lane Detection](https://github.com/vamshigunji183/LaneDetection)
   * [Advanced Lane Detection](https://github.com/vamshigunji183/Advance-lane-detection)
   * [Vehicle Tracking ](https://github.com/vamshigunji183/Vehicle_detection)
   * [Traffic signal Detection](https://github.com/vamshigunji183/Tracffic-SIgnal-Classification-ConvNet)
-* [MNIST]()
-* [Face Feature Detection]()
 
-#### Certifications
+
+#### [Certifications](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Certifications)
 * [Stanford University- Database](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Certifications/Vamshi_Stanford_Certificates_DataBase.pdf)
 * [University of Michigan- Applied Data Science](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Certifications/Vamshi_UoM_Certificates_Applied%20Data%20Science.pdf)
