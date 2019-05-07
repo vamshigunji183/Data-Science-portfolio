@@ -17,10 +17,10 @@ Core Competencies includes research, design, development, user data analysis, ET
 * Cloud Technologies: Google Cloud Platform (Full Stack), Amazon Web Services
 
 
-|First Header ||
+|Computer Vision ||
 |------------ | -------------|
-|Content cell 1 | Content cell 2|
-|Content column 1 | Content column 2|
+|Cats and Dog Classifier <img src="./img/sample.gif" alt="vamshi" width="20%"> | Face Features Detection <img src="./img/sample.gif" alt="vamshi" width="20%">|
+|Vehicle Tracking  <img src="./img/sample.gif" alt="vamshi" width="20%"> | Advanced Lane Detection <img src="./img/sample.gif" alt="vamshi" width="20%">|
 
 
 ### Projects Gallary
