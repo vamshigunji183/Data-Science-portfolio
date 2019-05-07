@@ -1,7 +1,7 @@
 ## Data Science Portfolio
 <img src="./img/vamshi.jpg" alt="vamshi" align= 'left' width="10%">
-### [LinkedIn](https://www.linkedin.com/in/venkata-gunji/)
-### [Facebook]()
+### !LinkedIn](https://www.linkedin.com/in/venkata-gunji/)
+### !Facebook]()
 
 
 ### Career Profile
