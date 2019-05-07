@@ -34,7 +34,7 @@ Core Competencies includes research, design, development, user data analysis, ET
 
 | Business Intelligence |Spotify Churn Prediction| Customer Segmentation| Campaign Analysis |
 |------------ | -------------| -------------| -------------|
-|Preview|  <img src="./img/spotify.gif" alt="Spotify Churn Prediction" width="50%"> |   <img src="./img/ad-campaign -analysis.gif" alt="Customer Segmentation" width="50%">|   <img src="./img/campaign.gif" alt="Campaign Analysis" width="50%"> |
+|Preview|  <img src="./img/spotify.gif" alt="Spotify Churn Prediction" width="50%"> |   <img src="./img/segement.gif" alt="Customer Segmentation" width="50%">|   <img src="./img/campaign.gif" alt="Campaign Analysis" width="50%"> |
 
 
 
