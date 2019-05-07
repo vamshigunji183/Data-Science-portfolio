@@ -15,10 +15,10 @@ Core Competencies includes research, design, development, user data analysis, ET
 * Big Data Frameworks: Hadoop, Spark, Hive, Cassandra, BigQuery
 * Deep Learning Frameworks: Tensorflow, Keras, Pytourch, Caffe, Thenos
 * Cloud Technologies: Google Cloud Platform (Full Stack), Amazon Web Services
-First Header | Second Header
+|First Header | Second Header|
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+|Content cell 1 | Content cell 2|
+|Content column 1 | Content column 2|
 ### Projects Gallary
 |Computer Vision | Cats and Dog Classifier: <img src="./img/sample.gif" alt="vamshi" width="20%"> | Face Features Detection <img src="./img/sample.gif" alt="vamshi" width="20%"> | Advanced Lane Detection <img src="./img/sample.gif" alt="vamshi" width="20%"> | Cats and Dog Classifier <img src="./img/sample.gif" alt="vamshi" width="20%"> | Vehicle Tracking  <img src="./img/sample.gif" alt="vamshi" width="20%"> |
 -------|
