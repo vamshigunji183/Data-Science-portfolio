@@ -17,7 +17,7 @@ Core Competencies includes research, design, development, user data analysis, ET
 * Cloud Technologies: Google Cloud Platform (Full Stack), Amazon Web Services
 
 
-|First Header |-------------|
+|First Header ||
 |------------ | -------------|
 |Content cell 1 | Content cell 2|
 |Content column 1 | Content column 2|
