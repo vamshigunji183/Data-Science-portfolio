@@ -48,10 +48,10 @@ Core Competencies includes research, design, development, user data analysis, ET
 
 ### Project Portfolio
 
-#### [Business Intelligence](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence)
-* [Spotify Users Churn Prediction](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Spotify-User-Churn-Prediction)
-* [Customer Segementation](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Identification-Customer-Segment)
-* [Bank ad Marketing Campaign Analysis](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Business%20Intelligence/Bank-Marketing-Campaign-Analysis)
+#### [Business Intelligence](https://github.com/vamshigunji183/Business-Intelligence-portfolio)
+* [Spotify Users Churn Prediction](https://github.com/vamshigunji183/Business-Intelligence-portfolio/tree/master/Spotify-User-Churn-Prediction)
+* [Customer Segementation](https://github.com/vamshigunji183/Business-Intelligence-portfolio/tree/master/Identification-Customer-Segment)
+* [Bank ad Marketing Campaign Analysis](https://github.com/vamshigunji183/Business-Intelligence-portfolio/tree/master/Bank-Marketing-Campaign-Analysis)
 * [Santandar Customer Transaction Prediction (Kaggle Competition)]()
 
 #### [Natural Language processing](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Natural%20Language%20Processing)
