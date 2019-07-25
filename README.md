@@ -28,31 +28,15 @@ Core Competencies includes research, design, development, user data analysis, ET
 
 
 
-
-
-### Projects Gallary
-| Computer Vision |Cats and Dog Classifier|  Vehicle Tracking | Advanced Lane Detection|
-|------------ | -------------| -------------| -------------|
-|Preview|  <img src="./img/cat-dogs.gif" alt="cats and dogs Classifier" width="50%"> |<img src="./img/vehicle-tracker.gif" alt="adv-lane-detection" width="50%"> |   <img src="./img/adv-lane-detection.gif" alt="adv-lane-detection" width="50%">|
-
-| Natural Language Processing |Neural Machine Translation| New Summarization| Twitter Sentiment Analysis | Recipe Summarization|
-|------------ | -------------| -------------| -------------|-------------|
-|Preview|  <img src="./img/translation.gif" alt="vamshi" width="50%"> |   <img src="./img/news summarizer.gif" alt="news summarizer" width="50%">|   <img src="./img/Sentiment-analysis.gif" alt="vamshi" width="50%"> |   <img src="./img/Recipe-summarizer.gif" alt="vamshi" width="50%">|
-
-| Business Intelligence |Spotify Churn Prediction| Customer Segmentation| Campaign Analysis |
-|------------ | -------------| -------------| -------------|
-|Preview|  <img src="./img/spotify.gif" alt="Spotify Churn Prediction" width="50%"> |   <img src="./img/segement.gif" alt="Customer Segmentation" width="50%">|   <img src="./img/campaign.gif" alt="Campaign Analysis" width="50%"> |
-
-
-
-
 ### Project Portfolio
 
 #### [Business Intelligence](https://github.com/vamshigunji183/Business-Intelligence-portfolio)
+
+* [Fraudulent Credit card transaction detection](https://github.com/vamshigunji183/Machine-Learning-Fraudulent-Trasaction-Detection)
 * [Spotify Users Churn Prediction](https://github.com/vamshigunji183/Business-Intelligence-portfolio/tree/master/Spotify-User-Churn-Prediction)
 * [Customer Segementation](https://github.com/vamshigunji183/Business-Intelligence-portfolio/tree/master/Identification-Customer-Segment)
 * [Bank ad Marketing Campaign Analysis](https://github.com/vamshigunji183/Business-Intelligence-portfolio/tree/master/Bank-Marketing-Campaign-Analysis)
-* [Santandar Customer Transaction Prediction (Kaggle Competition)]()
+
 
 #### [Natural Language processing](https://github.com/vamshigunji183/Data-Science-portfolio/tree/master/Natural%20Language%20Processing)
 * [NEWS recommendations App](https://github.com/vamshigunji183/NLP-Portfolio/tree/master/NEWS%20Recommendation)
