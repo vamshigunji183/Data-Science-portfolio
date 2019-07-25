@@ -33,6 +33,7 @@ Core Competencies includes research, design, development, user data analysis, ET
 #### [Business Intelligence](https://github.com/vamshigunji183/Business-Intelligence-portfolio)
 
 * [Fraudulent Credit card transaction detection](https://github.com/vamshigunji183/Machine-Learning-Fraudulent-Trasaction-Detection)
+* [Customer Life Time Value (LTV) Prediction ](https://github.com/vamshigunji183/Customer-Life-Time-Value-Prediction)
 * [Spotify Users Churn Prediction](https://github.com/vamshigunji183/Business-Intelligence-portfolio/tree/master/Spotify-User-Churn-Prediction)
 * [Customer Segementation](https://github.com/vamshigunji183/Business-Intelligence-portfolio/tree/master/Identification-Customer-Segment)
 * [Bank ad Marketing Campaign Analysis](https://github.com/vamshigunji183/Business-Intelligence-portfolio/tree/master/Bank-Marketing-Campaign-Analysis)
