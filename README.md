@@ -3,17 +3,28 @@
 
 
 
-### Career Profile
-Junior data scientist with 3+ years’ experience, as a data analytics for Educational Service startup company and as a software developer, and research assistant for the research funded by the National Science Foundation, USA.
+### Career Summary
 
-Core Competencies includes research, design, development, user data analysis, ETL pipeline, Data mining, database design, database management, Statistical analysis, Predictive modeling, Data visualization, and Report writing.
+* Over 3+ years of experience as a Data Analyst in customer and market analytics to derive data-driven decision
+* Experience in building and automating dashboards to monitor and track KPIs BI tools like Tableau, Power BI, Python
+* Very efficient in interpreting and communicating large and complex data with exploratory data analysis, descriptive statistics, data modeling, visualization and presentations on customer analytics, behavior, web and market analytics
+* Proficient in data analytics and modeling using Python package- NumPy, Pandas, Stats Models, SciPy, Scikit-Learn
+* Experience in statistical modeling methods- Linear Regression, Discriminant Analysis, Feature Selection, PCA
+* Experience in building machine learning models- Linear model, SVM, Clustering, KNN, K-mean, Neural Networks
+* Good knowledge in database design using PL/SQL- stored procedures, Functions, Triggers with MySQL, PostgreSQL
+* Experience in designing, developing, modeling and managing Relational databases using ERwin, Snowflakes
+* Proficient in automating data collection, translation and store using ETL pipeline tools like Talend, Informatica
+* Experience in coding with Python, R, SPSS, SAS, VBA, PL/SQL, HTML
 
-### [Experience](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Resume/MasterResume_Vamshi.pdf)
+### Experience
 ##### National Science Foundation
-* Software Developer (Currently-01/2018)
+* Software Developer (01/2018-Current)
 
-##### Talent Sprint
-* Data Analyst (08/2016-04/2015)
+##### Toodledo
+* Data Analyst (05/2017-02/2018)
+
+##### Webninjaz
+* Data Analyst (05/2015-08/2016)
 
 
 
