@@ -5,7 +5,7 @@
 
 ### Career Summary
 
-* Over 3+ years of experience as a Data Analyst in customer and market analytics to derive data-driven decision
+* Over 4+ years of experience as a Data Analyst in customer and market analytics to derive data-driven decision
 * Experience in building and automating dashboards to monitor and track KPIs BI tools like Tableau, Power BI, Python
 * Very efficient in interpreting and communicating large and complex data with exploratory data analysis, descriptive statistics, data modeling, visualization and presentations on customer analytics, behavior, web and market analytics
 * Proficient in data analytics and modeling using Python package- NumPy, Pandas, Stats Models, SciPy, Scikit-Learn
@@ -33,7 +33,7 @@
 * Statistical Analysis: R, MATLAB
 * Data Analysis: Pandas, Numpy, Scipy, Scikit-learn
 * Data Visualization: Matplotlib, Seaborn, Tableau
-* Big Data Frameworks: Hadoop, Spark, Hive, Cassandra, BigQuery
+* ETL: Spark, Talend, Infomatica
 * Deep Learning Frameworks: Tensorflow, Keras, Pytourch, Caffe, Thenos
 * Cloud Technologies: Google Cloud Platform (Full Stack), Amazon Web Services
 
